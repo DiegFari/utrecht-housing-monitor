@@ -3,7 +3,7 @@ name: Housing monitor
 on:
   schedule:
     # Every five minutes, offset from the busiest minute of the hour.
-    - cron: '2-57/5 * * * *'
+    - cron: '*/5 * * * *' 
   workflow_dispatch:
     inputs:
       mode:
