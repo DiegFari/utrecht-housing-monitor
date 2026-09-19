@@ -1,0 +1,6 @@
+{
+  "sites": [
+    {"id": "canvas-utrecht", "provider": "canvas", "name": "Canvas Utrecht", "enabled": true},
+    {"id": "fizz-utrecht", "provider": "fizz", "name": "THE FIZZ Utrecht", "enabled": true}
+  ]
+}

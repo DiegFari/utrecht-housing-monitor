@@ -1,0 +1,14 @@
+{
+  "status": "OK",
+  "settings": {"booking.strictGenders": false, "marketing.locations.addBookingTypes": false},
+  "locations": [{
+    "lookupValue": "UTRECHT",
+    "buildings": [{
+      "lookupValue": "FIZZ_UTRECHT",
+      "roomTypes": [
+        {"lookupValue": "DOUBLE", "displayValue": "Double Studio"},
+        {"lookupValue": "SINGLE", "displayValue": "Single Studio"}
+      ]
+    }]
+  }]
+}
