@@ -9,4 +9,4 @@ jobs:
   heartbeat:
     runs-on: ubuntu-latest
     steps:
-      - run: echo "Scheduled heartbeat: $(date -u)"
+      - run: date -u
