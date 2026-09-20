@@ -1,10 +1,10 @@
 {
   "sites": {
     "canvas-utrecht": {
-      "failures": 2,
+      "failures": 0,
       "last_error_email": 0,
       "listings": {},
-      "next_check_at": 1789864153
+      "next_check_at": 0
     },
     "fizz-utrecht": {
       "failures": 0,
